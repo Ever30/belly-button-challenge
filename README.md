@@ -1,5 +1,5 @@
 # belly-button-challenge
-In this challenge, I test some of the functions that I learned during this interactive - Visualization week.
+In this challenge, I put some of the features I learned during this interactive visualization week to the test.
 
 ## Instructions
 Complete the following steps:
