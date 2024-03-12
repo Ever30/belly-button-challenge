@@ -1,8 +1,7 @@
 # Java Script Challenge: belly-button-challenge
 Challenge 14 for UC Berkeley Data Analytics Bootcamp
 
-
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.cam.ac.uk%2Fsites%2Fwww.cam.ac.uk%2Ffiles%2Fnews%2Fresearch%2Fnews%2Fgettyimages-1501082127-dp.jpg&tbnid=mqMs3TPCHG-Y0M&vet=12ahUKEwiWkrWjqu-EAxVaDWIAHTLQA5IQMygBegQIARAz..i&imgrefurl=https%3A%2F%2Fwww.cam.ac.uk%2Fresearch%2Fnews%2Fnew-vaccine-technology-could-protect-from-future-viruses-and-variants&docid=OCejkoV5m4qERM&w=885&h=428&q=imagenes%20for%20virus%20&ved=2ahUKEwiWkrWjqu-EAxVaDWIAHTLQA5IQMygBegQIARAz
+![gettyimages-1501082127-dp](https://github.com/Ever30/belly-button-challenge/assets/149534473/43c456ed-e406-4f6e-b50c-cace0a9af84f)
 
 ## Instructions
 Complete the following steps:
