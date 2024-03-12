@@ -1,5 +1,5 @@
-# belly-button-challenge
-In this challenge, I put some of the features I learned during this interactive visualization week to the test.
+# Java Script Challenge: belly-button-challenge
+Challenge 14 for UC Berkeley Data Analytics Bootcamp
 
 ## Instructions
 Complete the following steps:
